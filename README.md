@@ -1,8 +1,16 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=35&pause=1000&color=F700CA&width=435&lines=Hi%2C+I'm+Gaby+Low;Welcome+to+my+profile" alt="Typing SVG" /></a>
+![github-header-image (1)](https://github.com/GabyLow/GabyLow/assets/127358083/32fe0cea-c5c0-4ae3-a402-fc83dfde5119)
 
 ###
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=500&size=35&pause=1000&color=F700CA&width=435&lines=Hi%2C+I'm+Gaby+Low;Welcome+to+my+profile" alt="Typing SVG" /></a>
+###
 
+<h3 align="left">👩‍💻  About Me</h3
+<p align="left">- 📚 I'm currently learning : Laravel<br>- 👯 I’m looking to collaborate on open source projects<br>- 🤝 I’m looking for help with Backend Development<br>- 🤡 Fun fact : Coding is passion, not profession!<br>- ☕️ I'm always in a mood for a coffee <br>- 🌎 In my free time I wander!</p>
+
+###
+
+<h3 align="left">🛠 I have experience using this tools and Languages :</h3>
 
 ###
 
@@ -30,8 +38,36 @@
 
 ###
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabyLow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabyLow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+###
+
+<h3 align="left">🎵 My life has a Soundtrack :</h3>
+
+###
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gabylow&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ###
 
+<h3 align="left">👍🏼 Support me :</h3>
+
+###
+
 <a href="https://www.buymeacoffee.com/gabylow" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+###
+
+<h3 align="left">👣 Visitors :</h3>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/GabyLow/count.svg?"  />
+</div>
