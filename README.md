@@ -36,10 +36,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/gabylow">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=gabylow&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 ###
