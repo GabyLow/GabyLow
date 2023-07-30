@@ -1,4 +1,4 @@
-![github-header-image (2)](https://github.com/GabyLow/GabyLow/assets/127358083/36a4302b-565f-478b-8269-0441c1bf8d3f)
+![github-header-image (3)](https://github.com/GabyLow/GabyLow/assets/127358083/7c7bad01-c045-4989-bc8c-5c664b338ba6)
 
 ###
 
@@ -71,3 +71,5 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/GabyLow/count.svg?"  />
 </div>
+
+
