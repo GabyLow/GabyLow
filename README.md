@@ -1,4 +1,4 @@
-![github-header-image (1)](https://github.com/GabyLow/GabyLow/assets/127358083/32fe0cea-c5c0-4ae3-a402-fc83dfde5119)
+![github-header-image (2)](https://github.com/GabyLow/GabyLow/assets/127358083/36a4302b-565f-478b-8269-0441c1bf8d3f)
 
 ###
 
