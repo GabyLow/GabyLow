@@ -6,7 +6,7 @@
 ###
 
 <h3 align="left">👩‍💻  About Me</h3
-<p align="left">- 👯 I’m looking to collaborate on open source projects<br>- 📚 I'm currently learning : Laravel<br>- 🤝 I’m looking for help with Backend Development<br>- 🤡 Fun fact : Coding is passion, not profession!<br>- ☕️ I'm always in a mood for coffee <br>- 🌎 In my free time I wander!</p>
+<p align="left">- 👯 I’m looking to collaborate on open source projects<br>- 📚  I’m currently learning Full Stack Development<br>- 🤡 Fun fact : Coding is passion, not profession!<br>- ☕️ I'm always in a mood for coffee <br>- 💜 I love to attend Meetups for learning & Conferences for Networking</p>
 
 ###
 
